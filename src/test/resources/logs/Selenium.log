@@ -1,0 +1,22 @@
+22:25:43,009 DEBUG devpinoyLogger:68 - Launching Chrome!!!!
+22:25:52,528 DEBUG devpinoyLogger:77 - Navigated to : http://www.expedia.co.in
+22:25:56,256 DEBUG devpinoyLogger:88 - Clicking on an Element : [[ChromeDriver: chrome on MAC (dc31bb260539b15ecd7f312be3d7ecfa)] -> xpath: //div[@id='gc-custom-header-nav-bar-acct-menu']/button]
+22:26:27,103 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+22:26:27,103 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+22:26:27,104 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:26:27,104 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:26:27,104 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/schavan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+22:26:57,972 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+22:26:57,973 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+22:26:57,973 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:26:57,973 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:26:57,973 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/schavan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+22:26:59,106 DEBUG devpinoyLogger:68 - Launching Chrome!!!!
+22:27:03,097 DEBUG devpinoyLogger:77 - Navigated to : http://www.expedia.co.in
+22:27:03,549 DEBUG devpinoyLogger:88 - Clicking on an Element : [[ChromeDriver: chrome on MAC (165106073c62e52e396f1ef3ff5c578f)] -> xpath: //ul[@id='uitk-tabs-button-container']/li[2]/a]
+22:27:03,670 DEBUG devpinoyLogger:88 - Clicking on an Element : [[ChromeDriver: chrome on MAC (165106073c62e52e396f1ef3ff5c578f)] -> xpath: //button[@data-testid='submit-button']]
+22:27:04,670 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+22:27:04,671 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+22:27:04,671 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+22:27:04,671 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+22:27:04,671 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/Users/schavan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

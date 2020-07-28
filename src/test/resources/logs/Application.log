@@ -1,0 +1,7 @@
+27/07/2020 22:25:43 devpinoyLogger Launching Chrome!!!!
+27/07/2020 22:25:52 devpinoyLogger Navigated to : http://www.expedia.co.in
+27/07/2020 22:25:56 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on MAC (dc31bb260539b15ecd7f312be3d7ecfa)] -> xpath: //div[@id='gc-custom-header-nav-bar-acct-menu']/button]
+27/07/2020 22:26:59 devpinoyLogger Launching Chrome!!!!
+27/07/2020 22:27:03 devpinoyLogger Navigated to : http://www.expedia.co.in
+27/07/2020 22:27:03 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on MAC (165106073c62e52e396f1ef3ff5c578f)] -> xpath: //ul[@id='uitk-tabs-button-container']/li[2]/a]
+27/07/2020 22:27:03 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on MAC (165106073c62e52e396f1ef3ff5c578f)] -> xpath: //button[@data-testid='submit-button']]
