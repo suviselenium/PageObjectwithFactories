@@ -98,9 +98,9 @@ public class Page {
 
     }
 
-    public static void quitBrowser(){
-            if(driver!=null){
-                driver.quit();
-            }
+    public static void quitBrowser() {
+        if (driver != null) {
+            driver.quit();
+        }
     }
 }
